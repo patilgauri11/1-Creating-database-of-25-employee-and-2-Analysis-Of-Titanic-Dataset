@@ -13,3 +13,9 @@ Handle these null by pandas
 
 # Analysis-Of-Titanic-Dataset
 Titanic data set downloaded from kaggle. I have done the analysis ofthe data by using Python.
+Male / female vs survived
+Age vs survived
+Number of Children vs total number
+Delete useless column
+Use encoding for male female
+What is your analysis of who has the highest chance of surviving? Does their gender ,money,class,age make any difference in that?
